@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Introduction to Machine Learning in Python 
+## University of Cologne
+### Winter 2018/19
 
 You can use the [editor on GitHub](https://github.com/jeshan49/eemp2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
