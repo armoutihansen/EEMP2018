@@ -6,8 +6,6 @@ You can use the [editor on GitHub](https://github.com/jeshan49/eemp2/edit/master
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Lecture slides
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -27,6 +25,14 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### Lecture slides
+
+- Session 1 (10/12-18): [Introduction to Statistical Learning](url)
+- Session 2 (17/12-18): [Classification](url)
+- Session 3 (07/01-19): [Resampling Methods](url)
+- Session 4 (14/01-19): [Linear Model Selection and Regularization](url)
+- Session 5 (21/01-19): [Tree-Based Methods](url)
+- Session 6 (28/01-19): [Support Vector Machines](url) 
 
 ### Python files
 
