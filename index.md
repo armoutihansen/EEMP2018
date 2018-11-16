@@ -20,7 +20,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. [Introduction to statistical learning](https://github.com/jeshan49/eemp2/blob/master/choice_sim.pdf)
+1. [Introduction to statistical learning](https://guides.github.com/features/mastering-markdown/)
 2. List
 
 **Bold** and _Italic_ and `Code` text
