@@ -42,10 +42,10 @@ Syntax highlighted code block
   
 ### Lecture slides
 _Note: slides will become avaiable sequentially as the time of session approaches._
-- Session 1 (10/12-18): [Introduction to Statistical Learning](url)
-- Session 2 (17/12-18): [Classification](url)
-- Session 3 (07/01-19): [Resampling Methods](url)
-- Session 4 (14/01-19): [Linear Model Selection and Regularization](url)
+- Session 1 (10/12-18): [Introduction to Machine Learning](url)
+- Session 2 (17/12-18): [Linear methods for Regression](url)
+- Session 3 (07/01-19): [Linear methods for Classification](url)
+- Session 4 (14/01-19): [Moving beyond linearity](url)
 - Session 5 (21/01-19): [Tree-Based Methods](url)
 - Session 6 (28/01-19): [Support Vector Machines](url) 
 
