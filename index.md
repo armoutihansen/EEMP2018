@@ -27,7 +27,7 @@ _Note: slides will become avaiable sequentially as the time of session approache
 - Session 6 (28/01-19): Support Vector Machines
 
 ### Python files
-- Session 1 (10/12-18): [Basics](url)
+- Session 1 (10/12-18): [Basics](https://github.com/jeshan49/eemp2/blob/master/py_basics.py)
 
 ### Data
 
