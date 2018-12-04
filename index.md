@@ -6,8 +6,8 @@
 ### Literature
 - **Main literature**
   - An Introduction to Statistical Learning with Applications in R (ISLR) [James, Witten, Hastie, Tibshirani]
-    - Chapters: 1-6, 8-9
-    - [link](url)
+    - Chapters: 1-9
+    - [link](https://www-bcf.usc.edu/~gareth/ISL/)
 - **Additional literature:**
   - The Elements of Statistical Learning - Data Mining, Inference, and Prediction (ESL) [Hastie, Tibshirani, Friedman]
     - Chapters: 1-4, 7, 9, 12
