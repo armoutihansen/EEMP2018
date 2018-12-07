@@ -19,7 +19,7 @@
   
 ### Lecture slides
 _Note: slides will become avaiable sequentially as the time of session approaches._
-- Lecture 1: [Introduction to Machine Learning](url)
+- Lecture 1: [Introduction to Machine Learning](https://raw.githubusercontent.com/jeshan49/eemp2/master/L1.pdf)
 - Lecture 2: Linear methods for Classification
 - Lecture 3: Model Selection and Assessment
 - Lecture 4: Linear methods for Regression
