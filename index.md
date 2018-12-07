@@ -19,12 +19,13 @@
   
 ### Lecture slides
 _Note: slides will become avaiable sequentially as the time of session approaches._
-- Session 1 (10/12-18): [Introduction to Machine Learning](url)
-- Session 2 (17/12-18): Linear methods for Regression
-- Session 3 (07/01-19): Linear methods for Classification
-- Session 4 (14/01-19): Moving beyond linearity
-- Session 5 (21/01-19): Tree-Based Methods
-- Session 6 (28/01-19): Support Vector Machines
+- Lecture 1: [Introduction to Machine Learning](url)
+- Lecture 2: Model Selection and Assessment
+- Lecture 3: Linear methods for Regression
+- Lecture 4: Linear methods for Classification
+- Lecture 5: Moving beyond linearity
+- Lecture 6: Tree-Based Methods
+- Lecture 7: Support Vector Machines
 
 ### Python files
 - Session 1 (10/12-18): [Basics](https://raw.githubusercontent.com/jeshan49/eemp2/master/py_basics.py)
