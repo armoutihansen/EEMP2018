@@ -14,7 +14,7 @@
     - [link](https://web.stanford.edu/~hastie/ElemStatLearn/)
   - Hands-On Machine Learning with Scikit-Learn & Tensorflow (HOML) [Géron]
     - Chapters: 1-6
-  - Python Data Science Handbook (PDSH) [VanderPlas]
+  - Python for Data Analysis (PDA) [McKinney]
   - Applied Predictive Modeling (APM) [Kuhn, Johnson]
   
 ### Lecture slides
