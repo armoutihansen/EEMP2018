@@ -31,6 +31,6 @@ _Note: slides will become avaiable sequentially as the time of session approache
 - Session 1 (10/12-18): [Basics](https://raw.githubusercontent.com/jeshan49/eemp2/master/py_basics.py)
 
 ### Data
-- [Advertising](https://raw.githubusercontent.com/jeshan49/eemp2/master/Advertising.csv)
+- [Advertising](https://raw.githubusercontent.com/jeshan49/eemp2/master/Advertising2.csv)
 
 
