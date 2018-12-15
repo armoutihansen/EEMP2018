@@ -32,6 +32,7 @@ _Note: slides will become avaiable sequentially as the time of session approache
 
 ### Data
 - [Advertising](https://raw.githubusercontent.com/jeshan49/eemp2/master/Advertising2.csv)
+- [Default](https://raw.githubusercontent.com/jeshan49/eemp2/master/Default.csv)
 - [Stock market](https://raw.githubusercontent.com/jeshan49/eemp2/master/Smarket.csv)
 - [Caravan](https://raw.githubusercontent.com/jeshan49/eemp2/master/Caravan.csv)
 
