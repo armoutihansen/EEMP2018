@@ -29,7 +29,7 @@ _Note: slides will become avaiable sequentially as the time of session approache
 
 ### Python files
 - Session 1 (10/12-18): [Basics](https://raw.githubusercontent.com/jeshan49/eemp2/master/py_basics.py), [NumPy](https://raw.githubusercontent.com/jeshan49/eemp2/master/py_numpy.py), [Pandas](https://raw.githubusercontent.com/jeshan49/eemp2/master/py_pandas.py), [Plotting](https://raw.githubusercontent.com/jeshan49/eemp2/master/py_plot.py)
-- Session 2 (10/12-18): [Linear classification](https://raw.githubusercontent.com/jeshan49/eemp2/master/py_lab2.py)
+- Session 2 (10/12-18): [Linear classification](https://raw.githubusercontent.com/jeshan49/eemp2/master/py_lab2.py), [Linear classification_filled](https://raw.githubusercontent.com/jeshan49/eemp2/master/py_default.py)
 
 ### Data
 - [Advertising](https://raw.githubusercontent.com/jeshan49/eemp2/master/Advertising2.csv)
