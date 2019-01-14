@@ -31,6 +31,7 @@ _Note: slides will become avaiable sequentially as the time of session approache
 - Session 1 (10/12-18): [Basics](https://raw.githubusercontent.com/jeshan49/eemp2/master/py_basics.py), [NumPy](https://raw.githubusercontent.com/jeshan49/eemp2/master/py_numpy.py), [Pandas](https://raw.githubusercontent.com/jeshan49/eemp2/master/py_pandas.py), [Plotting](https://raw.githubusercontent.com/jeshan49/eemp2/master/py_plot.py)
 - Session 2 (17/12-18): [Linear classification](https://raw.githubusercontent.com/jeshan49/eemp2/master/py_lab2.py), [Linear classification_filled](https://raw.githubusercontent.com/jeshan49/eemp2/master/py_default.py)
 - Session 3 (07/01-19): [Model selection and assessment](https://raw.githubusercontent.com/jeshan49/eemp2/master/model_sel_ass_upload.py), [Model selection and assessment filled](https://raw.githubusercontent.com/jeshan49/eemp2/master/model_sel_ass.py)
+- Session 4 (14/01-19): [Linear model selection](https://raw.githubusercontent.com/jeshan49/eemp2/master/lin_mod_sel.py), 
 
 
 ### Data
