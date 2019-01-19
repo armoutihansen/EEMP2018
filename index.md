@@ -38,5 +38,7 @@ _Note: slides will become avaiable sequentially as the time of session approache
 - [Advertising](https://raw.githubusercontent.com/jeshan49/eemp2/master/Advertising2.csv)
 - [Default](https://raw.githubusercontent.com/jeshan49/eemp2/master/Default.csv)
 - [Credit](https://raw.githubusercontent.com/jeshan49/eemp2/master/Credit.csv)
+- [Carseats](https://raw.githubusercontent.com/jeshan49/eemp2/master/Carseats.csv)
+- [Boston](https://raw.githubusercontent.com/jeshan49/eemp2/master/Boston.csv)
 
 
