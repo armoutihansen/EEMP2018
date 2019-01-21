@@ -23,9 +23,8 @@ _Note: slides will become avaiable sequentially as the time of session approache
 - Lecture 2: [Linear methods for Classification](https://raw.githubusercontent.com/jeshan49/eemp2/master/L2.pdf)
 - Lecture 3: [Model Selection and Assessment](https://raw.githubusercontent.com/jeshan49/eemp2/master/L3.pdf)
 - Lecture 4: [Linear Model Selection and Regularization](https://raw.githubusercontent.com/jeshan49/eemp2/master/L4.pdf)
-- Lecture 5: Moving beyond linearity
-- Lecture 6: Tree-Based Methods
-- Lecture 7: Support Vector Machines
+- Lecture 5: [Tree-Based and Ensemble Learning Methods](https://raw.githubusercontent.com/jeshan49/eemp2/master/L5.pdf)
+- Lecture 6: Support Vector Machines
 
 ### Python files
 - Session 1 (10/12-18): [Basics](https://raw.githubusercontent.com/jeshan49/eemp2/master/py_basics.py), [NumPy](https://raw.githubusercontent.com/jeshan49/eemp2/master/py_numpy.py), [Pandas](https://raw.githubusercontent.com/jeshan49/eemp2/master/py_pandas.py), [Plotting](https://raw.githubusercontent.com/jeshan49/eemp2/master/py_plot.py)
