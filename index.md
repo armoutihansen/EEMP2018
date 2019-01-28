@@ -32,7 +32,7 @@ _Note: slides will become avaiable sequentially as the time of session approache
 - Session 3 (07/01-19): [Model selection and assessment](https://raw.githubusercontent.com/jeshan49/eemp2/master/model_sel_ass_upload.py), [Model selection and assessment filled](https://raw.githubusercontent.com/jeshan49/eemp2/master/model_sel_ass.py)
 - Session 4 (14/01-19): [Linear model selection](https://raw.githubusercontent.com/jeshan49/eemp2/master/lin_mod_sel.py), [Linear model selection_filled](https://raw.githubusercontent.com/jeshan49/eemp2/master/lin_mod_sel_filled.py)
 - Session 5 (21/01-19): [Tree-Based Methods](https://raw.githubusercontent.com/jeshan49/eemp2/master/dec_tree_ens.py), [Tree-Based Methods filled](https://raw.githubusercontent.com/jeshan49/eemp2/master/dec_tree_ens_filled.py)
-
+- Session 6 (28/01-19): [Support Vector Machines](https://raw.githubusercontent.com/jeshan49/eemp2/master/svms_ens_upload.py)
 
 ### Data
 - [Advertising](https://raw.githubusercontent.com/jeshan49/eemp2/master/Advertising2.csv)
