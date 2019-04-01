@@ -40,5 +40,6 @@ _Note: slides will become avaiable sequentially as the time of session approache
 - [Credit](https://raw.githubusercontent.com/jeshan49/eemp2/master/Credit.csv)
 - [Carseats](https://raw.githubusercontent.com/jeshan49/eemp2/master/Carseats.csv)
 - [Boston](https://raw.githubusercontent.com/jeshan49/eemp2/master/Boston.csv)
+- [bb](https://raw.githubusercontent.com/jeshan49/eemp2/master/ind.pdf), [cc](https://raw.githubusercontent.com/jeshan49/eemp2/master/demo.html)
 
 
